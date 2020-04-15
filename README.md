@@ -1,7 +1,7 @@
 # django-flightapp
 Flight App API built in Django
 
-This is the public APIs:https://flightscheduler.herokuapp.com/flights
+This is the public APIs:https://flightscheduler.herokuapp.com/flights/
 
 GET All:      /flights
 
