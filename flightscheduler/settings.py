@@ -14,7 +14,7 @@ SECRET_KEY = 'jmx=l)&+aa141**^t2oge=v$rl7paba@d&zw#11j3oq*7bo7*0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.herokuapp.com','flightscheduler.herokuapp.com','.christianhur.com']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
@@ -115,6 +115,4 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
-# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
