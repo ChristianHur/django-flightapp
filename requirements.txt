@@ -23,7 +23,7 @@ virtualenv-clone==0.4.0
 Werkzeug==0.15.3
 whitenoise==5.0.1
 wrapt==1.10.11
-psycopg2==2.7.2
+psycopg2==2.9.5
 djangorestframework==3.11.2
 django-cors-headers==3.0.2
 django-heroku==0.3.1
